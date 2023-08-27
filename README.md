@@ -16,9 +16,14 @@ Individual Register: The entire population containing a superposition of all ind
 Fitness: Measure of how close a particular individual is to the optimal solution. Closer is the individual; higher is its fitness value.
 
 Overview of the used strategy:
-1. First step involves the creation of a perfect square maze using the Recursive Backtracker Algorithm[6] 
+1. First step involves the creation of a perfect square maze using the Recursive Backtracker Algorithm
 2. Creation of individual register using quantum superposition storing the entire population. 
 3. Classifying the individuals based upon their closeness to the optimum solution i.e. defining a fitness register storing the fitness values of individuals. 
 4. Defining an Oracle which marks certain individuals having fitness values greater than a threshold fitness value. 
 5. Employing Grover’s search algorithm in finding out one of the oracle’s marked states
+
+
+
+
+reference: Quantum Algorithm to Solve a Maze :Converting the Maze Problem into a Search Problem by Debabrata Goswami and Niraj Kumar [https://arxiv.org/pdf/1312.4116.pdf]. 
 
