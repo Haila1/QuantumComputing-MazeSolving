@@ -1,5 +1,7 @@
 # QuantumComputing-MazeSolving
 Quantum information scince and quantum computing bootcamp project
+
+
 Project idea : Solving a maze with quantum simulator
 Group members:
 Haila Khalaf (leader),
