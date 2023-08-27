@@ -2,10 +2,10 @@
 Quantum information scince and quantum computing bootcamp project
 Project idea : Solving a maze with quantum simulator
 Group members:
-Haila Khalaf (leader)
-Raghad Alsuhiabni
-Sitah Alotaibi
-Tasneem Alghamdi
+Haila Khalaf (leader),
+Raghad Alsuhiabni,
+Sitah Alotaibi,
+Tasneem Alghamdi.
 
 Quantum Algorithm to Solve a Maze : Converting the Maze Problem into a Search Problem
 
